@@ -1,0 +1,6 @@
+[package]
+name = "Int_Calc"
+version = "0.1.0"
+authors = ["Phillip Rhinehart <rhinehartphillip@gmail.com>"]
+
+[dependencies]
